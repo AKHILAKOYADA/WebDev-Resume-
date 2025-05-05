@@ -32,22 +32,26 @@ body {
 .profile h2 {
     margin: 10px 0;
     font-size: 20px;
+    color: #f1f4f2;
 }
 
 .contact p {
     font-size: 14px;
     margin: 5px 0;
+    color: #f1f4f2;
 }
 
 .skills h3 {
     border-bottom: 2px solid #ffffff;
     padding-bottom: 5px;
     margin-top: 20px;
+    color: white;
 }
 
 .skills ul {
     list-style: none;
     padding: 0;
+    color: #f1f4f2;
 }
 
 .skills li {
